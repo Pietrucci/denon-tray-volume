@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenonTrayApp", "DenonTrayApp\DenonTrayApp.csproj", "{A7194B26-EEE2-4375-AC6C-DD463B5B299B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7194B26-EEE2-4375-AC6C-DD463B5B299B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7194B26-EEE2-4375-AC6C-DD463B5B299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7194B26-EEE2-4375-AC6C-DD463B5B299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7194B26-EEE2-4375-AC6C-DD463B5B299B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {728AA14C-D0E7-4180-8B10-165949505D59}
+	EndGlobalSection
+EndGlobal
